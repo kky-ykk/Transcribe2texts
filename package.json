@@ -21,10 +21,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kky-ykk/Video2Audio"
+    "url": "git+https://github.com/kky-ykk/Transcribe2texts"
   },
   "bugs": {
-    "url": "https://github.com/kky-ykk/Video2Audio/issues"
+    "url": "https://github.com/kky-ykk/Transcribe2texts/issues"
   },
-  "homepage": "https://github.com/kky-ykk/Video2Audio#readme"
+  "homepage": "https://github.com/kky-ykk/Transcribe2texts#readme"
 }
