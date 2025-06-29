@@ -2,9 +2,11 @@
 
 
 
-# Video to Text Transcription Service
+# Video to Text Transcription Service  
 
 A Node.js application that extracts audio from video files and converts speech to text using offline transcription. This work with video where english language is used.
+
+[npm package](https://www.npmjs.com/package/transcribe2texts)
 
 ## Features
 
